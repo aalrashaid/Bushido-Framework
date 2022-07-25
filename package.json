@@ -1,0 +1,32 @@
+{
+  "name": "bushido-framework",
+  "version": "1.0.0",
+  "description": "Bushido-Framework to Css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalrashaid/Bushido-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalrashaid/Bushido-Framework/issues"
+  },
+  "homepage": "https://github.com/aalrashaid/Bushido-Framework#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "node-sass": "^7.0.1",
+    "npm-check-updates": "^16.0.0",
+    "postcss": "^8.4.14",
+    "postcss-cli": "^10.0.0"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.54.0",
+    "sass-loader": "^13.0.2"
+  }
+}
